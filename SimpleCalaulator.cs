@@ -1,11 +1,9 @@
-﻿// ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+﻿
 using System;
 
 namespace MyFirstAssignment
 {
-    class Program
+    class SimpleCalaulator
     {
         static void Main(string[] args)
         {
